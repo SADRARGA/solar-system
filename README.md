@@ -51,6 +51,6 @@
 </ul>
 
 <h2>ساخته‌شده با</h2>
-<p>HTML، جاوااسکریپت، <a href="https://threejs.org/">three.js</a></p>
+<p>HTML، جاوااسکریپت و هوش مصنوعی کلاد، <a href="https://threejs.org/">three.js</a></p>
 </body>
 </html>
