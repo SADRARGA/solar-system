@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="fa" dir="rtl">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>منظومه شمسی و زمین سه‌بعدی</title>
-<style>
-body{font:15px/2 Tahoma,sans-serif;max-width:760px;margin:0 auto;padding:20px;background:#0b1020;color:#e8ecff}
-h1{color:#ffb84d}h2{color:#7fb2ff;border-bottom:1px solid #2a3350;padding-bottom:4px;margin-top:28px}
-li{margin:2px 0}a{color:#7fb2ff}code{background:#1b2240;padding:1px 6px;border-radius:4px}
-</style>
+
 </head>
 <body>
 <h1>منظومه شمسی و زمین سه‌بعدی</h1>
